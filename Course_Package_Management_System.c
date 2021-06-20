@@ -1,7 +1,7 @@
 //Name: Abdulmalek Aldhafer
 //GitHub username : akaldhafer
 //Email : Ak_aldhafer@hotmail.com
-//System title : Training Course Package Management System 
+//System title : Course Package Management System 
 
 
 #include <stdio.h>   /*header files */
@@ -591,7 +591,7 @@ int main() {
 	char option;
 	do{
 		printf("\n<><<<<<><<><><><><><><><><><><><><><><><><><><><><><><><><><<>>>>>><>\n");
-		printf("\n               Training Course Package Management System     \n");
+		printf("\n                  Course Package Management System     \n");
 		printf("\n<><<<<<><<><><><><><><><><><><><><><><><><><><><><><><><><><<>>>>>><>\n");
 		printf("1. Login\t2. Log up\t3. Quit");
 		printf("\nEnter one option: ");
