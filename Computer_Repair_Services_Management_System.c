@@ -1,7 +1,7 @@
 //Name: Abdulmalek Aldhafer
 //GitHub username : akaldhafer
 //Email : Ak_aldhafer@hotmail.com
-//System title : Computer/Laptop Repair Services Management System 
+//System title : Computer Repair Services Management System 
 
 
 #include <stdio.h>   /*/ Header file for simple functions such as input and output   /*/
